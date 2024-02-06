@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![GitHub Streak](https://streak-stats.demolab.com/ArmanSahota=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ArmanSahota&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
 
 <!--
