@@ -1,4 +1,3 @@
-### Hi there 👋
 [![GitHub Streak](https://streak-stats.demolab.com?user=ArmanSahota&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
 Hi, my name is Arman and I am currently getting my assoiates in computer science. I currently work at a Tire shop 🛞 while I work on my degree. 
