@@ -17,5 +17,5 @@ My goals are to graduate with a high GPA, get a computer science internship, and
 - My Computer Programing IV Food Vision Final (https://github.com/ArmanSahota/CSI226FInal)
 - My Web Development I Jail Breaking Webstore Final (https://github.com/ArmanSahota/HTMLFINAL)
 - My StarBucks like Webpage (https://github.com/ArmanSahota/Midterm2)
-- My Data Structures project (https://github.com/ArmanSahota/DataStructres_ArmanSahota)
+- My Data Structures project (updated) (https://github.com/ArmanSahota/DataStructres_ArmanSahota)
   
