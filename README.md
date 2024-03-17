@@ -15,7 +15,7 @@ My goals are to graduate with a high GPA, get a computer science internship, and
 ### A few of my favorite projects have been:
 - My Kelly Blue Book Knockoff Project (https://github.com/ArmanSahota/BellyRedNovel)
 - My Computer Programing IV Food Vision Final (https://github.com/ArmanSahota/CSI226FInal)
-- My Web Development I Jail Breaking Webstore Final (https://github.com/ArmanSahota/HTMLFINAL)
+- My Web Development II Jail Breaking Webstore Final (https://github.com/ArmanSahota/JailBreakers)
 - My StarBucks like Webpage (https://github.com/ArmanSahota/Midterm2)
 - My Data Structures project (updated) (https://github.com/ArmanSahota/DataStructres_ArmanSahota)
   
