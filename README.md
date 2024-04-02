@@ -9,7 +9,7 @@ My goals are to graduate with a high GPA, get a computer science internship, and
  - C#
  - Python
  - SQL
- - HTML / CSS
+ - HTML / CSS / React
  - JavaScipt
 
 ### A few of my favorite projects have been:
