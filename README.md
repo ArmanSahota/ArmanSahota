@@ -2,7 +2,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=ArmanSahota&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
 Hi, my name is Arman and I am currently getting my associate degree in computer science. I currently work at a Tire shop 🛞 while I work on my degree. 
-My goals are to graduate with a high GPA, get a computer science internship, and get my bachelor's and then master's in Computer Science.
+My goals are to graduate with a high GPA, get a computer science internship, get my bachelor's and then master's in Computer Science.
 ### 😁 About Me
 ### Here are some languages I currently know:
 
