@@ -1,8 +1,7 @@
 ### Welcome to my Github Page❗ 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ArmanSahota&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
-Hi, my name is Arman and I am currently getting my associate degree in computer science. I currently work at a Tire shop 🛞 while I work on my degree. 
-My goals are to graduate with a high GPA, get a computer science internship, get my bachelor's and then master's in Computer Science.
+Hi, my name is Arman Sahota. I am an intern at Milvian Group as a Solution Architect Intern where I work with LLMs to make agentic work flows and write about them on Milvian AI's website as blog posts. 
 ### 😁 About Me
 ### Here are some languages I currently know:
 
